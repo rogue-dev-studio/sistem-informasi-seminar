@@ -1,1 +1,1 @@
-# LogAdm
+# Sistem  Informasi Seminar (Informatika)
